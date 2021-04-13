@@ -1,6 +1,6 @@
 {
   "name": "monorepo-base",
-  "version": "ethers-upgrade",
+  "version": "5.0.0",
   "private": true,
   "license": "MIT",
   "engines": {
